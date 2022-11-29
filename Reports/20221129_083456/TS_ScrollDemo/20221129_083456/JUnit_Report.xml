@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_ScrollDemo" time="32.696" tests="1" failures="0" errors="0">
+   <testsuite name="TS_ScrollDemo" tests="1" failures="0" errors="0" time="32.696" skipped="0" timestamp="2022-11-29 08:34:58" hostname="Meghana_Kandregula - EPINHYDW0E28" id="Test Suites/TS_ScrollDemo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Meghana_Kandregula\\Katalon Studio\\katalon-git-demo\\Reports\\20221129_083456\\TS_ScrollDemo\\20221129_083456"/>
+         <property name="logFiles" value="C:\\Users\\Meghana_Kandregula\\Katalon Studio\\katalon-git-demo\\Reports\\20221129_083456\\TS_ScrollDemo\\20221129_083456\\execution0.log"/>
+         <property name="attachments" value="C:\Users\Meghana_Kandregula\Katalon Studio\katalon-git-demo\Reports\20221129_083456\TS_ScrollDemo\20221129_083456/ScrollDemo.png"/>
+         <property name="hostName" value="Meghana_Kandregula - EPINHYDW0E28"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.211.173"/>
+         <property name="sessionId" value="d2ea6b463e38c5e10fd9e225b7363e19"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_SrollDemo" time="32.459" classname="Test Cases/TC_SrollDemo" status="PASSED">
+         <system-out><![CDATA[2022-11-29 08:34:58 - [TEST_CASE][PASSED] - Test Cases/TC_SrollDemo: Test Cases/TC_SrollDemo
+
+2022-11-29 08:34:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-11-29 08:34:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-29 08:34:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-29 08:35:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-11-29 08:35:01 - [TEST_STEP][PASSED] - navigateToUrl("https://www.katalon.com"): Navigate to 'https://www.katalon.com' successfully
+
+2022-11-29 08:35:23 - [MESSAGE][PASSED] - Navigate to 'https://www.katalon.com' successfully
+
+2022-11-29 08:35:23 - [TEST_STEP][PASSED] - scrollToPosition(9999999, 9999999): Browser is scrolled to position x = 9999999, y = 9999999
+
+2022-11-29 08:35:23 - [MESSAGE][PASSED] - Browser is scrolled to position x = 9999999, y = 9999999
+
+2022-11-29 08:35:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(getReportFolder() + "/ScrollDemo.png"): Taking screenshot successfully
+
+2022-11-29 08:35:28 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2022-11-29 08:35:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\Users\Meghana_Kandregula\Katalon Studio\katalon-git-demo\Reports\20221129_083456\TS_ScrollDemo\20221129_083456/ScrollDemo.png]]
+
+2022-11-29 08:35:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-29 08:35:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-11-29 08:34:58 - [TEST_SUITE][PASSED] - TS_ScrollDemo: Test Cases/TC_SrollDemo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

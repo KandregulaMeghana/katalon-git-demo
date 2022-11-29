@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_ScrollDemo,Chrome 107.0.0.0,,,2022-11-29 08:34:58,2022-11-29 08:35:31,32.696s,PASSED
+,,,,,,,
+Test Cases/TC_SrollDemo,Chrome 107.0.0.0,,,2022-11-29 08:34:58,2022-11-29 08:35:31,32.459s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-29 08:34:59,2022-11-29 08:35:01,2.339s,PASSED
+"navigateToUrl(""https://www.katalon.com"")",Chrome 107.0.0.0,,,2022-11-29 08:35:01,2022-11-29 08:35:23,22.362s,PASSED
+"scrollToPosition(9999999, 9999999)",Chrome 107.0.0.0,,,2022-11-29 08:35:23,2022-11-29 08:35:23,0.035s,PASSED
+"takeFullPageScreenshot(getReportFolder() + ""/ScrollDemo.png"")",Chrome 107.0.0.0,,,2022-11-29 08:35:23,2022-11-29 08:35:30,6.754s,PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-29 08:35:30,2022-11-29 08:35:31,0.658s,PASSED
